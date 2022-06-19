@@ -1,0 +1,17 @@
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\bin\Debug\net6.0-windows\Question 2.exe
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\bin\Debug\net6.0-windows\Question 2.deps.json
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\bin\Debug\net6.0-windows\Question 2.runtimeconfig.json
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\bin\Debug\net6.0-windows\Question 2.dll
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\bin\Debug\net6.0-windows\Question 2.pdb
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\Question 2.csproj.AssemblyReference.cache
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\Question_2.Form1.resources
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\Question 2.csproj.GenerateResource.cache
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\Question 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\Question 2.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\Question 2.AssemblyInfo.cs
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\Question 2.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\Question 2.dll
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\refint\Question 2.dll
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\Question 2.pdb
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\Question 2.genruntimeconfig.cache
+C:\Users\linda\Desktop\Individual-3A\Question 2\Question 2\obj\Debug\net6.0-windows\ref\Question 2.dll
